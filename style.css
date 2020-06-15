@@ -17,12 +17,12 @@ p.lead {
 }
 
 .card-img-top {
-    height: 50vh;
-    width: 50vh;
+    height: 35%;
+    width: 100%;
 }
 
 #series {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     margin-top: 10vh;
 }
