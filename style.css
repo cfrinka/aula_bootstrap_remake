@@ -1,0 +1,28 @@
+.carousel-item {
+    height: 50vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.display-4 {
+    text-shadow: 0 0 0.2em #000, 0 0 0.2em #000, 0 0 0.2em #000
+}
+
+p.lead {
+    text-shadow: 0 0 0.2em #000, 0 0 0.2em #000, 0 0 0.2em #000
+}
+
+.card-img-top {
+    height: 50vh;
+    width: 50vh;
+}
+
+#series {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10vh;
+}
